@@ -12,6 +12,8 @@ First, ensure that you have the necessary libraries installed:
 
 
 -->What the Script Does:
+
+
 Loads Data        : The script loads your seller, billing, shipping, and item details into a data dictionary.
 Calculates Totals : For each item, the script computes the net amount, tax, and total cost.
 Fills the Template: Using Jinja2, the script fills in the HTML template with the invoice data.
